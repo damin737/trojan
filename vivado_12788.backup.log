@@ -1,0 +1,107 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Sep  4 15:31:52 2024
+# Process ID: 12788
+# Current directory: C:/Users/dh933300/Desktop/HSTC_Lab/Project1/Week1/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21284 C:\Users\dh933300\Desktop\HSTC_Lab\Project1\Week1\project_1\project_1.xpr
+# Log file: C:/Users/dh933300/Desktop/HSTC_Lab/Project1/Week1/project_1/vivado.log
+# Journal file: C:/Users/dh933300/Desktop/HSTC_Lab/Project1/Week1/project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/dh933300/Desktop/HSTC_Lab/Project1/Week1/project_1/project_1.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/dh933300/Desktop/HSTC_Lab/Project1/project_1' since last save.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/async_transmitter.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/async_transmitter.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/ct_def.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/ct_def.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/kb2ascii.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/kb2ascii.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/kbtop.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/kbtop.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/led_graph.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/led_graph.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/pt_exp.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/pt_exp.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/sevseg.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/sevseg.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/tx_ctrl.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/tx_ctrl.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/video_ctrl.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/video_ctrl.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/Ps2Inerface.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/Ps2Inerface.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/aes_package.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/aes_package.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/aes128_fast.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/aes128_fast.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/clkDllCtrl.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/clkDllCtrl.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/clkDllCtrl0.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/clkDllCtrl0.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/clkDllCtrl0_glb.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/clkDllCtrl0_glb.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/clkDllCtrl1.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/clkDllCtrl1.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/ctrm.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/ctrm.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/key_expander.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/key_expander.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/losr.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/losr.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/vga80x40.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/vga80x40.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/alphatop.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/alphatop.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/fontrom.coe'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/fontrom.coe' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/logorom.coe'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/logorom.coe' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/alphatop.xdc'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/alphatop.xdc' instead.
+Scanning sources...
+Finished scanning sources
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/async_transmitter.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/async_transmitter.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/ct_def.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/ct_def.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/kb2ascii.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/kb2ascii.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/kbtop.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/kbtop.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/led_graph.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/led_graph.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/pt_exp.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/pt_exp.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/sevseg.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/sevseg.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/tx_ctrl.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/tx_ctrl.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/video_ctrl.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/video_ctrl.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/Ps2Inerface.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/Ps2Inerface.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/aes_package.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/aes_package.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/aes128_fast.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/aes128_fast.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/clkDllCtrl.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/clkDllCtrl.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/clkDllCtrl0.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/clkDllCtrl0.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/clkDllCtrl0_glb.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/clkDllCtrl0_glb.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/clkDllCtrl1.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/clkDllCtrl1.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/ctrm.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/ctrm.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/key_expander.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/key_expander.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/losr.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/losr.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/vga80x40.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/vga80x40.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/alphatop.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/alphatop.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/fontrom.coe'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/fontrom.coe' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/logorom.coe'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/logorom.coe' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/alphatop.xdc'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/alphatop.xdc' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/async_transmitter.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/async_transmitter.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/ct_def.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/ct_def.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/kb2ascii.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/kb2ascii.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/kbtop.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/kbtop.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/led_graph.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/led_graph.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/pt_exp.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/pt_exp.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/sevseg.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/sevseg.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/tx_ctrl.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/tx_ctrl.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/video_ctrl.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/video_ctrl.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/Ps2Inerface.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/Ps2Inerface.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/aes_package.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/aes_package.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/aes128_fast.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/aes128_fast.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/clkDllCtrl.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/clkDllCtrl.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/clkDllCtrl0.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/clkDllCtrl0.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/clkDllCtrl0_glb.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/clkDllCtrl0_glb.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/clkDllCtrl1.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/clkDllCtrl1.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/ctrm.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/ctrm.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/key_expander.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/key_expander.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/losr.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/losr.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/vga80x40.vhd'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/vga80x40.vhd' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/alphatop.v'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/alphatop.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/fontrom.coe'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/fontrom.coe' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/logorom.coe'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/logorom.coe' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/dh933300/Desktop/Downloads/alpha_src/alpha_staging/alphatop.xdc'; using path 'C:/Users/dh933300/Downloads/alpha_src/alpha_staging/alphatop.xdc' instead.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2017.4/data/ip'.
+reset_run synth_1
+reset_run fontrom_synth_1
+reset_run logorom_synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 24
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'fontrom'...
+ERROR: [Ipptcl 7-519] NULL COE Data pointer: Unable to open the file 
+ERROR: [Common 17-39] 'ipgui::get_coe_val' failed due to earlier errors.
+CRITICAL WARNING: [IP_Flow 19-1747] Failed to deliver file 'c:/Xilinx/Vivado/2017.4/data/ip/xilinx/blk_mem_gen_v8_4/hdl/mem_init_file.xit': ERROR: [Common 17-39] 'ipgui::get_coe_val' failed due to earlier errors.
+
+ERROR: [IP_Flow 19-167] Failed to deliver one or more file(s).
+ERROR: [IP_Flow 19-3505] IP Generation error: Failed to generate IP 'fontrom'. Failed to generate 'Vivado VHDL Synthesis' outputs: 
+ERROR: [IP_Flow 19-98] Generation of the IP CORE failed.
+Failed to generate IP 'fontrom'. Failed to generate 'Vivado VHDL Synthesis' outputs: 
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Sep  4 15:32:11 2024...
